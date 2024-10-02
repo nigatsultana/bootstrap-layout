@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar,.footer{
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+}
+
+.box{
+    font-size: 30px;
+    text-align: center;
+    min-height: 100px;
+   background-color: bisque;
+    margin: 10px 0;
+
+}
+.red{
+    background-color: aquamarine;
+}
+.blue{
+    background-color: rgb(51, 255, 0);
+}
